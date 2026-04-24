@@ -19,7 +19,7 @@ input double   InpRR       = 1.0;      // Reward/Risk Ratio
 input group "UI Layout Settings"
 input int      InpX        = 20;       // Panel X Position
 input int      InpY        = 150;       // Panel Y Position
-input int      InpW        = 220;      // Panel Width
+input int      InpW        = 240;      // Panel Width
 input int      InpH        = 480;      // Panel Height
 
 //--- GLOBAL VARIABLES
